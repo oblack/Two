@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="print">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Print2/out/artifacts/print_jar/print.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

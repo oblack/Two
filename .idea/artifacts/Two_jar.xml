@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Two:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Two_jar</output-path>
+    <root id="archive" name="Two.jar">
+      <element id="module-output" name="Two" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Print2/out/artifacts/print_jar/print.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
